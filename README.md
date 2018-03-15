@@ -1,3 +1,5 @@
+# spring-cloud-baseline
+
 Startup the cloud required components as below:
 
 1) cd /config and run mvn spring-boot:run, after doing this the spring cloud config server is up.
@@ -7,4 +9,4 @@ Startup the cloud required components as below:
 Tips:
 1) jerry.wernerds.net is the server address, need to change to fit yours in /config/.../resources/share/application.yml
 2) jerry.wernerds.net:8761 to view the eureka UI
-# spring-cloud-baseline
+
